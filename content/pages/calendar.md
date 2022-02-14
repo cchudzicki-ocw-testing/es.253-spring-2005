@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Calendar
+type: CourseSection
 uid: 8b67b8ee-8757-5b6c-743e-ad5235d2408c
 ---
 
