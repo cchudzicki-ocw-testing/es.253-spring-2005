@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: On Pre-Nuptial Testing
-type: OCWFile
 uid: 11964160-f2c1-b0cd-5214-f6f8f28f2215
 ---

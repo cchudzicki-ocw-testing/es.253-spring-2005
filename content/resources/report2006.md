@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: report2006.pdf
-type: OCWFile
 uid: bfb21e72-eb19-902d-b9b1-a4c05fee6127
 ---

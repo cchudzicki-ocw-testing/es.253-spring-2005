@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Policies in Schools
-type: OCWFile
 uid: 59641bbc-a3f8-e22e-0559-39388428abe6
 ---

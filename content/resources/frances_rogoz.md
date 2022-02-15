@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: frances_rogoz.pdf
-type: OCWFile
 uid: 3b5fa789-f54e-f5c8-96e9-1a30ba08dff7
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Workplace Discrimination
-type: OCWFile
 uid: c7c3a3da-1e2d-cda6-f8ab-ab1ca4911dce
 ---

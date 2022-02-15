@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Policies in Institution (Companies, Civil, Religious and Health)
-type: OCWFile
 uid: 6647d1b3-364a-f7a1-e4e7-8f7a930637e9
 ---

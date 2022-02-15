@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Marriage Laws
-type: OCWFile
 uid: 3aa5df69-9e60-2039-350e-4823ace443d0
 ---

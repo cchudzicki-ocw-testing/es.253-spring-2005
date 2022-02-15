@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: tufool_nuaimi.pdf
-type: OCWFile
 uid: a7e84abd-a2f2-7c99-55b4-47663a879ba4
 ---

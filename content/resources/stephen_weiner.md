@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: stephen_weiner.pdf
-type: OCWFile
 uid: 609823c5-a68c-9af0-dfc6-f8bd60b46203
 ---

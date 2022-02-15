@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Discrimination in Schools
-type: OCWFile
 uid: 78286393-64a2-f55a-624c-061beb188e19
 ---
