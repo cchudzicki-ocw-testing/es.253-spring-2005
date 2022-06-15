@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the various assignments given during the course.
 draft: false
 learning_resource_types:
 - Assignments

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the assigned readings for the course and discussion
+  questions.
 draft: false
 learning_resource_types:
 - Readings
