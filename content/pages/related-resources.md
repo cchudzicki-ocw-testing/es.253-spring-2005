@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of links to other websites which help students
+  in better understanding of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

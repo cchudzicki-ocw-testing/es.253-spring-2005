@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section gives information on format, overview, background and motivation,
+  attendance policy, and grading criteria of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

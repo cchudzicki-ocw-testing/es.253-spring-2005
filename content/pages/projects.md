@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: These student projects in this section were compiled into a report to
+  the Law Development Commission of Zambia. All work is courtesy of the students named
+  and is used with permission.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
