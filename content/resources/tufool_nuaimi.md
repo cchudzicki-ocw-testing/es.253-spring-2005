@@ -5,6 +5,7 @@ file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/a7e84abda2f27c9955b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
